@@ -17,30 +17,8 @@
 
 
 
-第一步：根据主题生成PPT大纲内容
 
-![step0](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/step0.png?x-oss-process=image/resize,w_500)
-
->  生成大纲
-
-![step1](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/step1.png?x-oss-process=image/resize,w_500)
-
-第二步：挑选PPT模板
-
-![step2](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/step2.png?x-oss-process=image/resize,w_500)
-
-第三步：实时生成PPT
-
-![step3](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/step3.png?x-oss-process=image/resize,w_500)
-
-第四步：下载PPT
-
-![step4](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/step4.png?x-oss-process=image/resize,w_500)
-
-> 下载
-
-![step5](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/step5.png?x-oss-process=image/resize,w_500)
-
+https://github.com/MICAHFANG/aippt/assets/105974914/e8adbb5f-568c-4a95-8411-0f05d304fea1
 
 
 ## PPT 解析成 json / json 反渲染 PPT
